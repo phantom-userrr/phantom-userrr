@@ -74,7 +74,3 @@ With a focus on building scalable web applications, solving complex technical ch
 - Performance Optimization
 - Technical Documentation
 - Team Collaboration & Leadership
-
----
-
-[![](https://visitcount.itsvg.in/api?id=phantom-userrr&icon=0&color=0)](https://visitcount.itsvg.in)
