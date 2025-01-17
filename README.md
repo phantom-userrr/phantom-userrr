@@ -1,12 +1,12 @@
 # 👨🏽‍💻 Sajit | Full Stack Developer
 
-With a focus on building scalable web applications and solving complex technical challenges through innovative solutions.
+With a focus on building scalable web applications, solving complex technical challenges through innovative solutions, and mastering Data Structures & Algorithms.
 
 ## 🔭 Professional Focus
 
 - **Current Role**: Full Stack Developer specializing in responsive UI/UX development
 - **Tech Stack**: React, JavaScript, Node.js, Python, C++, MongoDB
-- **Expertise**: Web Development, System Architecture, Problem Solving
+- **Expertise**: Web Development, System Architecture, Problem Solving, DSA
 - **Industries**: Technology, Web Applications, Software Solutions
 
 ## 🚀 Current Projects & Initiatives
@@ -16,6 +16,8 @@ With a focus on building scalable web applications and solving complex technical
 - Building RESTful APIs and microservices
 - Optimizing application performance and user experience
 - Contributing to open-source projects
+- Mastering Data Structures & Algorithms in C++ and Python
+- Solving competitive programming challenges
 
 ## 💼 Professional Skills
 
@@ -42,6 +44,8 @@ With a focus on building scalable web applications and solving complex technical
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-4A154B?style=for-the-badge&logo=zed&logoColor=white)
 
 ## 📈 GitHub Analytics
 
@@ -59,6 +63,8 @@ With a focus on building scalable web applications and solving complex technical
 
 ### 💡 Core Competencies
 - Full Stack Web Development
+- Data Structures & Algorithms
+- Competitive Programming
 - UI/UX Design Implementation
 - RESTful API Development
 - Database Design & Optimization
@@ -69,4 +75,4 @@ With a focus on building scalable web applications and solving complex technical
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=maverickOG&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=phantom-userrr&icon=0&color=0)](https://visitcount.itsvg.in)
