@@ -1,4 +1,4 @@
-# 👨‍💻 Sajit | Full Stack Developer
+# 👨🏽‍💻 Sajit | Full Stack Developer
 
 With a focus on building scalable web applications and solving complex technical challenges through innovative solutions.
 
