@@ -45,9 +45,9 @@ With a focus on building scalable web applications and solving complex technical
 
 ## 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=maverickOG&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maverickOG&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maverickOG&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=phantom-userrr&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=phantom-userrr&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom-userrr&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🤝 Professional Connect
 
