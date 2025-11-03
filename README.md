@@ -49,21 +49,7 @@ With a focus on building scalable web applications, solving complex technical ch
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-4A154B?style=for-the-badge&logo=zed&logoColor=white)
 
-## 📈 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=phantom-userrr&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=phantom-userrr&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phantom-userrr&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🤝 Professional Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heysajit)
-<!--- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com) --->
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sajit.m@kalvium.community)
-
----
-
-### 💡 Core Competencies
+## 💡 Core Competencies
 - Full Stack Web Development
 - Data Structures & Algorithms
 - Competitive Programming
